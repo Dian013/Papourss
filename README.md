@@ -7,7 +7,7 @@
 
 🌱 J’apprends en ce moment : HTML, CSS, JavaScript, PHP et SQL.
 
-🎯 Je suis en recherche de stage (si tu as un bon plan, je suis preneur ! 😄).
+🎯 Je suis en recherche d'alternance (si tu as un bon plan, je suis preneur ! 😄).
 
 💬 Mes compétences sont encore en développement, mais je suis motivé à progresser !
 
